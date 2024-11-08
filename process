@@ -1,1 +1,17 @@
 
+Dataset :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+Working:
+
+1.Create a Resource group.
+
+2.Create a storage account with some container name as well and upload all the files.
+
+3. in resource group- IAM - ADD - Add role assignement - owner - members - select members(give mail which you have given in power bi)
+
+4. change the mail-id of portal,use power bi used mail-id.
+
+5.Create a synapse workspace and give all the details required including sql.
+
+6.in Synapse - visualize - select the workspace you created in power bi
