@@ -79,7 +79,7 @@ When there is a single input variable (x), the method is referred to as "simple 
 
 What is ONNX?
 
-The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector. ONNX is available on GitHub.
+The Open Neural Network Exchange (ONNX) is an open-source artificial intelligence ecosystem of technology companies and research organizations that establish open standards for representing machine learning algorithms and software tools to promote innovation and collaboration in the AI sector. ONNX is available on https://github.com/onnx/onnx.
 
 ONNX was originally named Toffee and was developed by the PyTorch team at Facebook. In September 2017, it was renamed to ONNX and announced by Facebook and Microsoft. Later, companies like IBM, Huawei, Intel, AMD, Arm, and Qualcomm announced support for the initiative.
 
