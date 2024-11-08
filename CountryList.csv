@@ -1,0 +1,54 @@
+﻿companyjp,companyen,numeric,alpha3,alpha2,location,subdivision
+アンドラ,Andorra,20,AND,AD,西ヨーロッパ,ISO 3166-2:AD
+アルバニア,Albania,8,ALB,AL,東ヨーロッパ,ISO 3166-2:AL
+アルメニア,Armenia,51,ARM,AM,東ヨーロッパ,ISO 3166-2:AM
+オーストリア,Austria,40,AUT,AT,東ヨーロッパ,ISO 3166-2:AT
+オーランド諸島,Åland Islands,248,ALA,AX,北ヨーロッパ,ISO 3166-2:AX
+アゼルバイジャン,Azerbaijan,31,AZE,AZ,東ヨーロッパ,ISO 3166-2:AZ
+ボスニア・ヘルツェゴビナ,Bosnia and Herzegovina,70,BIH,BA,東ヨーロッパ,ISO 3166-2:BA
+ベルギー,Belgium,56,BEL,BE,西ヨーロッパ,ISO 3166-2:BE
+ブルガリア,Bulgaria,100,BGR,BG,東ヨーロッパ,ISO 3166-2:BG
+ベラルーシ,Belarus,112,BLR,BY,東ヨーロッパ,ISO 3166-2:BY
+スイス,Switzerland,756,CHE,CH,西ヨーロッパ,ISO 3166-2:CH
+チェコ,Czech Republic,203,CZE,CZ,東ヨーロッパ,ISO 3166-2:CZ
+ドイツ,Germany,276,DEU,DE,西ヨーロッパ,ISO 3166-2:DE
+デンマーク,Denmark,208,DNK,DK,北ヨーロッパ,ISO 3166-2:DK
+エストニア,Estonia,233,EST,EE,東ヨーロッパ,ISO 3166-2:EE
+スペイン,Spain,724,ESP,ES,西ヨーロッパ,ISO 3166-2:ES
+フィンランド,Finland,246,FIN,FI,北ヨーロッパ,ISO 3166-2:FI
+フェロー諸島,Faroe Islands,234,FRO,FO,北ヨーロッパ,ISO 3166-2:FO
+フランス,France,250,FRA,FR,西ヨーロッパ,ISO 3166-2:FR
+イギリス,United Kingdom,826,GBR,GB,西ヨーロッパ,ISO 3166-2:GB
+グルジア,Georgia,268,GEO,GE,東ヨーロッパ,ISO 3166-2:GE
+ガーンジー,Guernsey,831,GGY,GG,西ヨーロッパ,ISO 3166-2:GG
+ジブラルタル,Gibraltar,292,GIB,GI,西ヨーロッパ,ISO 3166-2:GI
+グリーンランド,Greenland,304,GRL,GL,北ヨーロッパ,ISO 3166-2:GL
+ギリシャ,Greece,300,GRC,GR,西ヨーロッパ,ISO 3166-2:GR
+クロアチア,Croatia,191,HRV,HR,東ヨーロッパ,ISO 3166-2:HR
+ハンガリー,Hungary,348,HUN,HU,東ヨーロッパ,ISO 3166-2:HU
+アイルランド,Ireland,372,IRL,IE,西ヨーロッパ,ISO 3166-2:IE
+マン島,Isle of Man,833,IMN,IM,西ヨーロッパ,ISO 3166-2:IM
+アイスランド,Iceland,352,ISL,IS,北ヨーロッパ,ISO 3166-2:IS
+イタリア,Italy,380,ITA,IT,西ヨーロッパ,ISO 3166-2:IT
+ジャージー,Jersey,832,JEY,JE,西ヨーロッパ,ISO 3166-2:JE
+リヒテンシュタイン,Liechtenstein,438,LIE,LI,西ヨーロッパ,ISO 3166-2:LI
+リトアニア,Lithuania,440,LTU,LT,東ヨーロッパ,ISO 3166-2:LT
+ルクセンブルク,Luxembourg,442,LUX,LU,西ヨーロッパ,ISO 3166-2:LU
+ラトビア,Latvia,428,LVA,LV,東ヨーロッパ,ISO 3166-2:LV
+モナコ,Monaco,492,MCO,MC,西ヨーロッパ,ISO 3166-2:MC
+モルドバ,"Moldova, Republic of",498,MDA,MD,東ヨーロッパ,ISO 3166-2:MD
+モンテネグロ,Montenegro,499,MNE,ME,東ヨーロッパ,ISO 3166-2:ME
+マケドニア共和国,"Macedonia, the former Yugoslav Republic of",807,MKD,MK,東ヨーロッパ,ISO 3166-2:MK
+オランダ,Netherlands,528,NLD,NL,西ヨーロッパ,ISO 3166-2:NL
+ノルウェー,Norway,578,NOR,NO,北ヨーロッパ,ISO 3166-2:NO
+ポーランド,Poland,616,POL,PL,東ヨーロッパ,ISO 3166-2:PL
+ポルトガル,Portugal,620,PRT,PT,西ヨーロッパ,ISO 3166-2:PT
+ルーマニア,Romania,642,ROU,RO,東ヨーロッパ,ISO 3166-2:RO
+セルビア,Serbia,688,SRB,RS,東ヨーロッパ,ISO 3166-2:RS
+スウェーデン,Sweden,752,SWE,SE,北ヨーロッパ,ISO 3166-2:SE
+スロベニア,Slovenia,705,SVN,SI,東ヨーロッパ,ISO 3166-2:SI
+スヴァールバル諸島およびヤンマイエン島,Svalbard and Jan Mayen,744,SJM,SJ,北ヨーロッパ,ISO 3166-2:SJ
+スロバキア,Slovakia,703,SVK,SK,東ヨーロッパ,ISO 3166-2:SK
+サンマリノ,San Marino,674,SMR,SM,西ヨーロッパ,ISO 3166-2:SM
+ウクライナ,Ukraine,804,UKR,UA,東ヨーロッパ,ISO 3166-2:UA
+バチカン,Holy See (Vatican City State),336,VAT,VA,西ヨーロッパ,ISO 3166-2:VA
