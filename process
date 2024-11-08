@@ -1,4 +1,82 @@
 
+Overview
+Over the past few years, there has been a significant worldwide increase in the unauthorized use of credit cards in mail order and online payments, as these are transactions in which no credit card is actually presented to the vendor. Unless some sort of countermeasures are taken, this will cause enormous damage to credit card users and credit card companies.
+
+Business Challenge
+In order to prevent unauthorized use, it is crucial to be able to infer the possibility of unauthorized transactions and to detect fraud from transaction details. We also recognize that the prompt identification of unauthorized transactions is an urgent issue for credit card companies and financial institutions.
+
+They need to be able to quickly understand and analyze the trends of unauthorized spending for each time period and the geographical characteristics of unauthorized use and to learn how to take concrete preventive measures.
+
+Objectives and Goals
+
+Objective: Develop a solution using Azure Synapse Analytics, Power BI, and ONNX to detect and analyze credit card fraud.
+
+
+Goals:
+
+1.Convert credit card fraud detection data into usable insights using Azure Synapse Analytics.
+2.Implement PCA for dimensionality reduction.
+3.Train a machine learning model using T-SQL in Azure Synapse Analytics.
+4.Deploy the model using ONNX for interoperability.
+5.Visualize the findings using Power BI.
+
+
+Tools and Technologies Used
+
+
+Azure Synapse Analytics
+
+Azure Synapse Analytics is an integrated analytics service that accelerates the time to insight across data warehouses and big data systems. It gives you the freedom to query data on your terms, using either serverless or dedicated resources—at scale.
+
+How It’s Used in the Project:
+
+1.Data Storage: Azure Synapse is used to store and manage the credit card transaction data.
+2.Data Processing: T-SQL queries in Azure Synapse SQL are used to process and analyze the data.
+3.Machine Learning: Azure Synapse enables us to train machine learning models using T-SQL.
+4.ONNX Integration: Once the model is trained, it is converted into the ONNX format for deployment.
+
+
+Power BI
+
+Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website.
+
+How It’s Used in the Project:
+
+1.Data Visualization: Power BI is used to create interactive reports and dashboards based on the insights generated from the Azure Synapse Analytics data.
+2.Real-Time Reporting: Power BI integrates with Azure Synapse to provide real-time data visualization.
+
+
+ONNX
+
+ONNX is an open-source ecosystem that enables AI developers to interchange models between different AI frameworks.
+
+How It’s Used in the Project:
+
+1.Model Exporting: The trained machine learning models in Azure Synapse are exported in the ONNX format.
+2.Interoperability: ONNX allows us to deploy these models across various platforms, ensuring that the models are not locked into any specific framework.
+
+
+Principal Component Analysis (PCA)
+
+Principal Component Analysis (PCA) is by far the most commonly used dimension reduction algorithm in machine learning.
+
+
+How PCA is Used in This Project:
+
+1.PCA is applied to the credit card fraud detection dataset to reduce the dimensionality of the data while preserving as much variability as possible.
+2.This allows us to focus on the most important features and reduces the computational cost of the analysis.
+
+
+Machine Learning Algorithm Used
+
+Algorithm: Linear Regression from Python's scikit-learn machine learning library.
+
+Explanation:
+
+1.Linear Regression: It predicts response variables from the values of explanatory variables using a regression equation.
+2.Why It’s Used: Linear regression is used to make predictions about the probability of fraud in this scenario.
+
+
 Dataset :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
@@ -6,7 +84,7 @@ Working:
 
 1.Create a Resource group.
 
-2.Create a storage account with some container name as well and upload all the files.
+2.Create a storage account with some container name as well and upload all the files(csv,onnx files).
 
 3. in resource group- IAM - ADD - Add role assignement - owner - members - select members(give mail which you have given in power bi)
 
@@ -15,3 +93,5 @@ Working:
 5.Create a synapse workspace and give all the details required including sql.
 
 6.in Synapse - visualize - select the workspace you created in power bi
+
+7.in develop-sql scripts start writing queries
