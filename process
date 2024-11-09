@@ -1,10 +1,12 @@
 
 Overview
-Over the past few years, there has been a significant worldwide increase in the unauthorized use of credit cards in mail order and online payments, as these are transactions in which no credit card is actually presented to the vendor. Unless some sort of countermeasures are taken, this will cause enormous damage to credit card users and credit card companies.
+Over the past few years, there has been a significant worldwide increase in the unauthorized use of credit cards in mail order and online payments, 
+as these are transactions in which no credit card is actually presented to the vendor. Unless some sort of countermeasures are taken, 
+this will cause enormous damage to credit card users and credit card companies.
 
 Business Challenge
-In order to prevent unauthorized use, it is crucial to be able to infer the possibility of unauthorized transactions and to detect fraud from transaction details. We also recognize that the prompt identification of unauthorized transactions is an urgent issue for credit card companies and financial institutions.
-
+In order to prevent unauthorized use, it is crucial to be able to infer the possibility of unauthorized transactions and to detect fraud from transaction details. 
+We also recognize that the prompt identification of unauthorized transactions is an urgent issue for credit card companies and financial institutions.
 They need to be able to quickly understand and analyze the trends of unauthorized spending for each time period and the geographical characteristics of unauthorized use and to learn how to take concrete preventive measures.
 
 Objectives and Goals
@@ -24,7 +26,7 @@ Goals:
 Tools and Technologies Used
 
 
-Azure Synapse Analytics
+Azure Synapse Analytics:
 
 Azure Synapse Analytics is an integrated analytics service that accelerates the time to insight across data warehouses and big data systems. It gives you the freedom to query data on your terms, using either serverless or dedicated resources—at scale.
 
@@ -36,7 +38,7 @@ How It’s Used in the Project:
 4.ONNX Integration: Once the model is trained, it is converted into the ONNX format for deployment.
 
 
-Power BI
+Power BI:
 
 Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website.
 
@@ -46,7 +48,7 @@ How It’s Used in the Project:
 2.Real-Time Reporting: Power BI integrates with Azure Synapse to provide real-time data visualization.
 
 
-ONNX
+ONNX:
 
 ONNX is an open-source ecosystem that enables AI developers to interchange models between different AI frameworks.
 
@@ -77,7 +79,7 @@ Explanation:
 2.Why It’s Used: Linear regression is used to make predictions about the probability of fraud in this scenario.
 
 
-Dataset :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Dataset used :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
 Working:
